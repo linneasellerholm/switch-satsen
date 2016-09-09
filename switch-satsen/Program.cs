@@ -10,6 +10,7 @@ namespace switch_satsen
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
